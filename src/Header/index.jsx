@@ -1,8 +1,7 @@
-import React from "react";
 import "./styles.css";
 
 const Header = () => {
-  return <div className="header">React Profiler Lab Rat</div>;
+  return <div className="header">React Profiler</div>;
 };
 
 export default Header;

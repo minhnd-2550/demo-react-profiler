@@ -1,9 +1,9 @@
-import { Chance } from "chance";
 import React, { useState } from "react";
+import { Chance } from "chance";
 import "./styles.css";
-import List from "../List";
-import Filter from "../Filter";
-import Button from "../Button";
+import List from "./List";
+import Filter from "./Filter";
+import Button from "./Button";
 
 const chance = new Chance();
 
